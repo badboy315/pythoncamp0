@@ -1,20 +1,19 @@
 <<<<<<< HEAD
-# README 测试 第二次测试 ceshi  111111
+# 小白的折腾记
 
-## github及gitbook学习向导  
- 
-[Guide: GitHub + gitbook](https://github.com/OpenMindClub/pythoncamp0/wiki/%5BGithub-Gitbook%5D)
+关于在 python 当中发生的种种折腾记录， 没有高大上的语言。 只有真实的记载， 通过记载的实践。 希望能后面的「小白」少点折腾。 尽早进入「快感」， 而非「原地踏步」。
 
-## readme是什么
 
-readme告诉别人如何使用你的软件，是项目的门面，一般包括如何安装，如何使用等等
+### 问题记录，以后再补充
 
-## fork这个项目
+- git 的配置「大部分小白都是个坑了」， 还包括 ssh key, git的 add、 push 等；
+- 如果搞定了上一步， 下面就算是「入了门」。 gitbook 和 github 的同步起码不是那么痛苦；
+- 富有余力的， 可以开始整 gitbook 的命令行了， 包括发布等；
+- 当上面一些都搞定的时候， 终于可以拥有了正儿八经「写教程」的『器』了。 『道术器』起码拥有一样。
 
-现在，把这个项目fork到你的库里，点击右上角的fork
-=======
-My Awesome Book
-=======
+## 要编写的教程
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
->>>>>>> e5ffe94f00175a9e81cc71f5c6dd39efad23dcf3
+- git 的配置， 记录配置过程「多图」
+- gitbook 简单操作， 包括预览、生成、发布
+
+

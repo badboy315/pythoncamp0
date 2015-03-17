@@ -2,9 +2,10 @@
 # SUMMARY
 
 * [缘起](/source/begin.md)
-* [part1](./source/part1/introduction)
-  * [part1.1](./source/part1/1.md)
-* [part2](./source/part2/introduction)
+* [第一周](./source/part1/introduction)
+  * [环境配置](./source/part1/1.md)
+  * [GIT配置](./source/part1/2.md)
+* [第二周](./source/part2/introduction)
   * [part2.2](./source/part2/1.md)
 * [结尾](./source/end.md)
 =======
