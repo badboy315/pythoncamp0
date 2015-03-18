@@ -19,7 +19,4 @@
   * [part2.2](/source/part2/1.md)
 * [结尾](/source/end.md)
 =======
-# Summary
 
-* [First Chapter](chapter1.md)
->>>>>>> e5ffe94f00175a9e81cc71f5c6dd39efad23dcf3
