@@ -1,3 +1,0 @@
-# Chapter1
-
-This is Chapter1.
