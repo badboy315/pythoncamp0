@@ -4,15 +4,13 @@
  
 > 此书用于学习 python 当中的真实记录， 从一个编程小白， 逐步见证的记录史。 现在无法知未来， 于是选择停留， 用书写把时间定在这一秒。 留待12周后的我来评价。
 
-===
 
 ## 本书预览版
 
-gitbook.com
+[gitbook.com](http://badboy315.gitbooks.io/pythoncamp0/content/) : http://badboy315.gitbooks.io/pythoncamp0/content/
 
-gitbook
+[gitbook 部署 github 版本](http://www.ibowarrow.com/try/) ：http://www.ibowarrow.com/try/
 
-====
 
 ## 本书结构
 
@@ -34,8 +32,12 @@ gitbook
 
 工具组合
 
-google + github issue + help = best power [学会信息的过滤，才是『道』]
+*google + github issue + help + 牛逼社区 「Stack Overflow」+ 同学导师 = best power [学会信息的过滤，才是『道』]*
 
 
+### 随手记录，后续整理
 
+https://github.com/GitbookIO/gitbook/issues/591
+
+webeditor -> github api -> github repo -> webhook -> gitbook build -> pdf,website, mobi, epub
 
