@@ -1,9 +1,13 @@
 
 {
-    "plugins": ["disqus"],
+    "plugins": [
+    "disqus",
+    "comscore",
+    ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "gonghejian"
         }
     }  
 }
+
