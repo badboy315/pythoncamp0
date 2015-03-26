@@ -10,6 +10,6 @@
   * [7.小试 Python](/source/part1/7.md)
   * [8.小技巧汇总](/source/part1/8.md)
 * [第二周](/source/part2/introduction.md)
-  * [part2.1](/source/part2/1.md)
+  * [1.guess-the-number](/source/part2/1.md)
 * [结尾](/source/end.md)
 =======
