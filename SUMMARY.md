@@ -9,7 +9,9 @@
   * [6.Gitbook 简明指南](/source/part1/6.md)
   * [7.小试 Python](/source/part1/7.md)
   * [8.小技巧汇总](/source/part1/8.md)
+  * [9.oh-my-zsh-guide](/source/part1/9.md)
 * [第二周](/source/part2/introduction.md)
-  * [1.guess-the-number](/source/part2/1.md)
+  * [1.本地模拟运行codeskulptor平台](/source/part2/1.md)
+  * [2.guess-the-number](/source/part2/2.md)
 * [结尾](/source/end.md)
 =======
