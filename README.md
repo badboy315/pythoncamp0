@@ -7,9 +7,9 @@
 
 ## 本书预览版
 
-[gitbook.com](http://badboy315.gitbooks.io/pythoncamp0/content/) : http://badboy315.gitbooks.io/pythoncamp0/content/
+[gitbook.com](http://badboy315.gitbooks.io/pythoncamp0/content/) 
 
-[gitbook 部署 github 版本](http://www.ibowarrow.com/try/) ：http://www.ibowarrow.com/try/
+[gitbook 部署 github 版本](http://www.ibowarrow.com/try/) 
 
 
 ## 本书结构
