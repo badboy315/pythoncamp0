@@ -24,7 +24,7 @@
 * [第十一信 小试](/source/10.md)
 * [第十二信 大秀](/source/11.md)
 
-关于弓和箭
+[弓和箭 豆瓣](http://www.douban.com/people/atsf/)
 
 
 
