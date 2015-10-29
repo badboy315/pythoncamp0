@@ -18,7 +18,7 @@
 * [第一信 小势](/source/0.md)
 * [第二信 小生](/source/1.md)
 * [第三信 小书](/source/2.md)
-* [第四信 小数](/source/3.md)
+* [第四信 小记](/source/3.md)
 * [第五信 小画](/source/4.md)
 * [第六信 小彩](/source/5.md)
 * [第七信 小乐](/source/6.md)
